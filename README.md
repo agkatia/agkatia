@@ -1,4 +1,5 @@
-<h1 align="center"> Smile📸! I'm Katia, a data engineer 💻. Welcome to my GitHub profile! 🚀 Feel free to explore and connect! 🤝</h1>
+<h1 align="center"> Smile 📸 ! Welcome to my GitHub profile  🚀 !                       </h1>
+<h1 align="center">  I'm Katia, a data engineer💻.  Feel free to explore and connect! 🤝 </h1>
 
 - 🔭 I’m currently working on **DSIS CNAS : Provision Of Services Component**
 
