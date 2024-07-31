@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Azure Fabric**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤝 I’m looking to collaborate on **Open Source Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@byteknight00](https://medium.com/@byteknight00)
 
