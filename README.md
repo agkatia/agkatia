@@ -80,7 +80,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://datasciencedojo.com/wp-content/uploads/52.jpg"  />
+  <img height="350" src="https://datasciencedojo.com/wp-content/uploads/52.jpg"  />
 </div>
 
 ###
