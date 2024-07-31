@@ -51,12 +51,10 @@
 <p align="left">  <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000" />   <img src="https://img.icons8.com/?size=100&id=7JREbec1RZXO&format=png&color=000000" alt="oracle" width="40" height="40"/> 
 <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="oracle" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="oracle" width="40" height="40"/> 
 </p>
-
+ 
 
   <h2 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://medium.com/@byteknight00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@byteknight00" height="30" width="40" /></a><a href="https://linkedin.com/in/http://www.linkedin.com/in/katia00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/katia00/" height="30" width="40" /></a> <a href="agoukatia2024@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+ <a href="agoukatia2024@gmail.com" >
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="agoukatia2024@gmail.com"  height="30" width="40" /></a><a href="https://medium.com/@byteknight00"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@byteknight00" height="30" width="40" /></a><a href="https://linkedin.com/in/http://www.linkedin.com/in/katia00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/katia00/" height="30" width="40" /></a>
 </p>
