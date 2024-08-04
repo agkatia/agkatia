@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Business Intelligence and Data Visualization**
 
-- 📫 How to reach me: **agoukatia2024@gmail.com**
+- 📫 How to reach me: **a.katia2024@gmail.com**
 
 - 📄 Know about my experiences on [LinkedIn](http://www.linkedin.com/in/katia00/)
 
@@ -58,6 +58,6 @@
 </p>
 
 <h2 align="left">Connect with me:</h2>
-<p align="left"><a href="mailto:agoukatia2024@gmail.com">
+<p align="left"><a href="mailto:a.katia2024@gmail.com">
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="agoukatia2024@gmail.com" height="30" width="40"/></a><a href="https://medium.com/@byteknight00"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@byteknight00" height="30" width="40"/></a><a href="https://linkedin.com/in/katia00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katia00" height="30" width="40"/></a>
 </p>
